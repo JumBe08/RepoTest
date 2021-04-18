@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author jvsDu
- *
- */
-module yetAnotherProject {
-}
