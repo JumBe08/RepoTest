@@ -1,0 +1,2 @@
+module aProjectForJRE16 {
+}
