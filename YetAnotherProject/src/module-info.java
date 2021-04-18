@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author jvsDu
+ *
+ */
+module yetAnotherProject {
+}
